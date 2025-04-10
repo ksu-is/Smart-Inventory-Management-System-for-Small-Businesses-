@@ -1,0 +1,6 @@
+inventory-system/
+│
+├── inventory.db          # SQLite database (auto-created)
+├── inventory.py          # Core logic
+├── main.py               # Entry point
+└── README.md             # Project info
